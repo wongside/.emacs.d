@@ -1,0 +1,24 @@
+
+C-n #next char
+M-n #next sentence
+C-p
+M-p
+C-f 
+M-f
+C-b 
+M-b
+
+C-v # next view
+M-v # pre view
+C-l # center view
+
+C-x C-c # exit emacs
+
+C-g # cancel command
+
+C-u 9 C-n # repeat 9 C-n
+
+
+M-x load-file # load config file
+M-x eval-buffer # exeute current buffer comand
+C-x C-e # execute one line lisp code

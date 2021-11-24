@@ -13,3 +13,7 @@
 
 (setq inhibit-splash-screen 1)
 
+(setq-default major-mode 'text-mode)
+
+(global-company-mode 1)
+
